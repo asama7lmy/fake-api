@@ -1,0 +1,23 @@
+[33mcommit ef71d6c1f119213d8b6677d0b98a473a1c7a1063[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: asama7lmy <omarsalahh120@gmail.com>
+Date:   Fri Sep 5 14:55:13 2025 +0300
+
+    تحديث db.json وتعديلات في الفرونت اند
+
+[33mcommit b37beb81df9dbcbc35ad7b2c7678746065928d99[m
+Author: asama7lmy <omarsalahh120@gmail.com>
+Date:   Fri Sep 5 14:48:06 2025 +0300
+
+    تحديث db.json وتعديلات في الفرونت اند
+
+[33mcommit f9a712406d1ded9e741f387c4048bbfc94211c90[m
+Author: asama7lmy <omarsalahh120@gmail.com>
+Date:   Wed Sep 3 14:55:08 2025 +0300
+
+    initial commit
+
+[33mcommit 75bde9fbc228085c5fd4c981d6304d5d0e08648b[m
+Author: asama7lmy <omarsalahh120@gmail.com>
+Date:   Tue Sep 2 23:32:39 2025 +0300
+
+    Add db.json with products
