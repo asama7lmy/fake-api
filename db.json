@@ -1,4 +1,3 @@
-
 {
   "products": [
     {
@@ -85,7 +84,7 @@
     {
       "id": 10,
       "title": "لابتوب فیفوبوك من اسوس 17",
-      "image": "https://i.postimg.cc/nsvYsmwT/l10.jpg",
+      "image": "https://i.postimg.cc/Ty8JY0Qp/l9.jpg",
       "price": 680,
       "rating": 3.5,
       "reviews": "8,124",
@@ -120,7 +119,7 @@
     },
     {
       "id": 14,
-      "title": "جوال بوكو اكس 4 برو",
+      "title": "جوال بوکو اکس 4 برو",
       "image": "https://i.postimg.cc/t7RtTYdt/m4.jpg",
       "price": 250,
       "rating": 4.5,
@@ -211,7 +210,7 @@
     {
       "id": 24,
       "title": "الهاتف الذکی جالسکی ام 32 الجیل الخامس",
-      "image": "https://i.postimg.cc/YGR6RH7W/m2.jpg",
+      "image": "https://i.postimg.cc/JHtkQHKf/m14.jpg",
       "price": 320,
       "rating": 4.1,
       "reviews": "8,102",
