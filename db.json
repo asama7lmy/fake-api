@@ -1,9 +1,10 @@
+
 {
   "products": [
     {
       "id": 1,
-      "title": "اسامه حلمي البيومي موسي",
-      "image": "/images/products/laptops/l1.jpg",
+      "title": "اتش بی الیت بوك الجیل الثانی",
+      "image": "https://i.postimg.cc/K3cNhYff/l1.jpg",
       "price": 750,
       "rating": 4.5,
       "reviews": "900",
@@ -12,7 +13,7 @@
     {
       "id": 2,
       "title": "لابتوب ایسر نیترو 515-5",
-      "image": "/images/products/laptops/l2.jpg",
+      "image": "https://i.postimg.cc/DJT656bt/l2.jpg",
       "price": 600,
       "rating": 3.8,
       "reviews": "250",
@@ -21,7 +22,7 @@
     {
       "id": 3,
       "title": "لابتوب هواوی میت بوک 14",
-      "image": "/images/products/laptops/l3.jpg",
+      "image": "https://i.postimg.cc/QVjST6D7/l3.jpg",
       "price": 800,
       "rating": 4.6,
       "reviews": "1,200",
@@ -30,7 +31,7 @@
     {
       "id": 4,
       "title": "لابتوب جیمنق اسوس - 571GT",
-      "image": "/images/products/laptops/l4.jpg",
+      "image": "https://i.postimg.cc/62f0PZrT/l4.jpg",
       "price": 950,
       "rating": 4.1,
       "reviews": "7,548",
@@ -39,7 +40,7 @@
     {
       "id": 5,
       "title": "لابتوب اسوس تی یو اف 15",
-      "image": "/images/products/laptops/l1.jpg",
+      "image": "https://i.postimg.cc/hhMsb945/l5.jpg",
       "price": 700,
       "rating": 4.5,
       "reviews": "2,200",
@@ -48,7 +49,7 @@
     {
       "id": 6,
       "title": "اسوس للالعاب F15",
-      "image": "/images/products/laptops/l6.jpg",
+      "image": "https://i.postimg.cc/9rMpxrrF/l6.jpg",
       "price": 990,
       "rating": 4.8,
       "reviews": "5,500",
@@ -57,7 +58,7 @@
     {
       "id": 7,
       "title": "لینوفو ایدیا باد فلکس 5 شاشه 14",
-      "image": "/images/products/laptops/l7.jpg",
+      "image": "https://i.postimg.cc/w7Gkngm5/l7.jpg",
       "price": 500,
       "rating": 4.2,
       "reviews": "850",
@@ -66,7 +67,7 @@
     {
       "id": 8,
       "title": "مایکروسوفت سیرفس جو 2 بشاشه لمس",
-      "image": "/images/products/laptops/l8.jpg",
+      "image": "https://i.postimg.cc/hXQ0B6Lk/l8.jpg",
       "price": 850,
       "rating": 4.7,
       "reviews": "8,200",
@@ -75,7 +76,7 @@
     {
       "id": 9,
       "title": "مایکروسوفت سیرفس برو 8 بشاشه 13",
-      "image": "/images/products/laptops/l8.jpg",
+      "image": "https://i.postimg.cc/hXQ0B6Lk/l8.jpg",
       "price": 900,
       "rating": 4.1,
       "reviews": "1,895",
@@ -84,7 +85,7 @@
     {
       "id": 10,
       "title": "لابتوب فیفوبوك من اسوس 17",
-      "image": "/images/products/laptops/l10.jpg",
+      "image": "https://i.postimg.cc/nsvYsmwT/l10.jpg",
       "price": 680,
       "rating": 3.5,
       "reviews": "8,124",
@@ -93,7 +94,7 @@
     {
       "id": 11,
       "title": "هاتف ابل ایفون 13 الجدید",
-      "image": "/images/products/mobiles/m1.jpg",
+      "image": "https://i.postimg.cc/XG4K9vRW/m1.jpg",
       "price": 800,
       "rating": 4.9,
       "reviews": "8,240",
@@ -102,7 +103,7 @@
     {
       "id": 12,
       "title": "هاتف سامسونج جالسکی الذکی M33",
-      "image": "/images/products/mobiles/m2.jpg",
+      "image": "https://i.postimg.cc/YGR6RH7W/m2.jpg",
       "price": 350,
       "rating": 4.5,
       "reviews": "9,014",
@@ -111,7 +112,7 @@
     {
       "id": 13,
       "title": "جوال سامسونج جالسکی ام 32 شریحتی الاتصال",
-      "image": "/images/products/mobiles/m3.jpg",
+      "image": "https://i.postimg.cc/RJ0cbDCb/m3.jpg",
       "price": 200,
       "rating": 3.5,
       "reviews": "7,784",
@@ -119,8 +120,8 @@
     },
     {
       "id": 14,
-      "title": "جوال بوکو اکس 4 برو",
-      "image": "/images/products/mobiles/m4.jpg",
+      "title": "جوال بوكو اكس 4 برو",
+      "image": "https://i.postimg.cc/t7RtTYdt/m4.jpg",
       "price": 250,
       "rating": 4.5,
       "reviews": "2,401",
@@ -129,7 +130,7 @@
     {
       "id": 15,
       "title": "سامسونج جالسکی اف ای الجیل الرابع",
-      "image": "/images/products/mobiles/m5.jpg",
+      "image": "https://i.postimg.cc/qgmcC4jf/m5.jpg",
       "price": 290,
       "rating": 3.0,
       "reviews": "420",
@@ -138,7 +139,7 @@
     {
       "id": 16,
       "title": "فیفو ایکس دی اس 256 ازرق",
-      "image": "/images/products/mobiles/m6.jpg",
+      "image": "https://i.postimg.cc/hffLL65X/m6.jpg",
       "price": 750,
       "rating": 5,
       "reviews": "1,500",
@@ -147,7 +148,7 @@
     {
       "id": 17,
       "title": "جوال ابل ایفون 12 الجدید",
-      "image": "/images/products/mobiles/m7.jpg",
+      "image": "https://i.postimg.cc/gnQvNsCN/m7.jpg",
       "price": 700,
       "rating": 4.5,
       "reviews": "4,540",
@@ -156,7 +157,7 @@
     {
       "id": 18,
       "title": "هاتف ذکی ثنائی شرائح",
-      "image": "/images/products/mobiles/m8.jpg",
+      "image": "https://i.postimg.cc/68ZCSRww/m8.jpg",
       "price": 500,
       "rating": 4.5,
       "reviews": "17,124",
@@ -164,8 +165,8 @@
     },
     {
       "id": 19,
-      "title": "جوال شاومی بوکو سی 40",
-      "image": "/images/products/mobiles/m9.jpg",
+      "title": "جوال شاومی بوكو سی 40",
+      "image": "https://i.postimg.cc/f3hYhLTd/m9.jpg",
       "price": 470,
       "rating": 4.0,
       "reviews": "4,700",
@@ -174,7 +175,7 @@
     {
       "id": 20,
       "title": "جوال سامسوج جالسکی الذکی M52",
-      "image": "/images/products/mobiles/m10.jpg",
+      "image": "https://i.postimg.cc/yJXc6Hkb/m10.jpg",
       "price": 850,
       "rating": 5,
       "reviews": "2,300",
@@ -182,8 +183,8 @@
     },
     {
       "id": 21,
-      "title": "نوکیا A12",
-      "image": "/images/products/mobiles/m11.jpg",
+      "title": "نوكیا A12",
+      "image": "https://i.postimg.cc/MM6RvFBK/m11.jpg",
       "price": 40,
       "rating": 4.1,
       "reviews": "850",
@@ -192,7 +193,7 @@
     {
       "id": 22,
       "title": "سامسونج جالسکی ام 13 لایت بنظام",
-      "image": "/images/products/mobiles/m12.jpg",
+      "image": "https://i.postimg.cc/JHtkQHKf/m14.jpg",
       "price": 620,
       "rating": 5,
       "reviews": "7,500",
@@ -201,7 +202,7 @@
     {
       "id": 23,
       "title": "هاتف هواوی نوفا 9",
-      "image": "/images/products/mobiles/m13.jpg",
+      "image": "https://i.postimg.cc/YGdFgzNN/m13.jpg",
       "price": 250,
       "rating": 3.5,
       "reviews": "1,784",
@@ -210,7 +211,7 @@
     {
       "id": 24,
       "title": "الهاتف الذکی جالسکی ام 32 الجیل الخامس",
-      "image": "/images/products/mobiles/m14.jpg",
+      "image": "https://i.postimg.cc/YGR6RH7W/m2.jpg",
       "price": 320,
       "rating": 4.1,
       "reviews": "8,102",
